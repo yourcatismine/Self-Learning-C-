@@ -4,7 +4,7 @@ namespace CSharpSelfLearning;
 
 class Program
 {
-    static void Main(strings[] args)
+    static void Main(string[] args)
     {
         //Seventh Video Showed
         //Math Class
